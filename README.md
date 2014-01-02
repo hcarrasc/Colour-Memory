@@ -11,3 +11,6 @@ The game starts initially with all cards facing down. The player is to then flip
 After the game is finished, the user should be prompted to input his name. The user's name and the score would then be stored in a database, and the user should be notified of his score and the current rankings.
 
 The database is hosted in a web server, this web server is programmed with PHP and the data is transferred using web services with json files.
+
+![screenshot 1](https://github.com/hcarrasc/Colour-Memory/raw/master/img/1.png)
+![screenshot 2](https://github.com/hcarrasc/Colour-Memory/raw/master/img/2.png)
